@@ -1,0 +1,2 @@
+- Criação do para implementação do artigo https://www.codeproject.com/Articles/1183150/Securing-ASP-NET-Web-API-using-Custom-Token-Based
+- Não me importei com a arquitetura, apenas em aplicar alguns conceitos para estudo.
