@@ -19,6 +19,8 @@ namespace TokenWEB.Controllers
         public ActionResult Create()
         {
             return View(new Usuario());
+
+            //a
         }
 
         // POST: RegisterUser/Create
